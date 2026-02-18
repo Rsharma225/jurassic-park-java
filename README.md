@@ -1,22 +1,20 @@
-\# Jurassic Park (Java)
+# Jurassic Park Java Simulation
 
+A Java-based object-oriented simulation project demonstrating:
 
+- OOP principles
+- Class design
+- Inheritance & polymorphism
+- Exception handling
+- Console interaction
 
-Text-based console game: escape the park by finding the key and reaching the hatch while avoiding dinosaurs.
+## How to Run
 
+Compile:
+javac *.java
 
+Run:
+java MainClassName
 
-\## How to Run (Windows / PowerShell)
-
-
-
-\### Compile
-
-```powershell
-
-cd src
-
-javac SharmaRaghavA4.java
-
-
-
+## Author
+Raghav Sharma
