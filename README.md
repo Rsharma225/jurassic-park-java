@@ -1,3 +1,4 @@
+![Jurassic Park Banner](screenshots/Jurassic_Park.png)
 # Jurassic Park Java Simulation
 
 A console-based object-oriented adventure game set in Jurassic Park.  
