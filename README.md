@@ -41,7 +41,11 @@ java -cp src SharmaRaghavA4
 ## Project Structure
 
 ```
-textjurassic-park-java/
+jurassic-park-java/
+├──Screenshots/
+│   └── Jurassic_Park.jpg      #Banner
+│   └── park1.png              #Gameplay1
+│   └── park1.png              #Gameplay2
 ├── src/
 │   └── SharmaRaghavA4.java   # Main game logic
 ├── .gitignore
