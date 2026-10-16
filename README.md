@@ -27,13 +27,25 @@ You are trapped with two dinosaurs — find the key and escape through the hatch
 
 **Goal:** Pick up the key (`$`) and reach the hatch (`#`) without being caught by a dinosaur (`X`).
 
+## How to Run
+
+```bash
+# Compile
+javac src/SharmaRaghavA4.java
+
+# Run
+java -cp src SharmaRaghavA4
+```
+
 ## Project Structure
 
+```
 textjurassic-park-java/
 ├── src/
 │   └── SharmaRaghavA4.java   # Main game logic
 ├── .gitignore
 └── README.md
+```
 
 ## Concepts Demonstrated
 
@@ -46,11 +58,3 @@ State management (key, zapped dinosaurs, steps)
 Author
 Raghav Sharma
 
-## How to Run
-
-```bash
-# Compile
-javac src/SharmaRaghavA4.java
-
-# Run
-java -cp src SharmaRaghavA4
