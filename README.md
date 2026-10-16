@@ -56,6 +56,11 @@ Input validation with regular expressions
 Random number generation
 State management (key, zapped dinosaurs, steps)
 
+## Game Play 
+
+![Gameplay](Screenshots/park1.png)
+![Gameplay](Screenshots/park2.png)
+
 Author
 Raghav Sharma
 
